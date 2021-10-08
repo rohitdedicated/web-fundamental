@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(45deg,rgb(33, 226, 162),rgb(91, 126, 241));
+}
+.header{
+    background-color: black;
+    height: 74px;
+}
+#brand{
+    width: 40%;
+    color: darkgoldenrod;
+    float: left;
+    text-align: center;
+    line-height: 70px;
+}
+#nav{
+    width: 60%;
+    line-height: 70px;
+    text-align: center;
+    float: right;
+}
+a{
+    text-decoration: none;
+    color: cornsilk;
+    margin-right: 61px;
+}
+.main{
+    text-align: center;
+}
+#h3{
+    background: linear-gradient(45deg,red,black);
+    color: white;
+    border-radius: 50%;
+    width: 40%;
+    margin: 15px auto;
+}
+table{
+    width: 100%;
+    margin: 20px 0px;
+}
+table img{
+    border-radius: 20px;
+    box-shadow: 0 0 20px black;
+}
+.footer{
+    background-color: black;
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+    color: chartreuse;
+}
+.footer h4{
+    margin-right: 23px;
+}
